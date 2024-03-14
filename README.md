@@ -3,8 +3,8 @@
 
 <h3>KANISHKA V S</h3>
 <h3>212222230061</h3>
-<h3>EX. NO</h3>
-<h3>DATE</h3>
+<h3>EX. NO :</h3>
+<h3>DATE :</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
     
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
