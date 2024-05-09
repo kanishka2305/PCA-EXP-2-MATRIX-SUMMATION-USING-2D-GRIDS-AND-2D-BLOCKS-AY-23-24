@@ -1,9 +1,9 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>KANISHKA V S</h3>
-<h3>212222230061</h3>
-<h3>EX. NO :</h3>
+<h3>Enter Your Name: KANISHKA V S</h3>
+<h3>Enter Register No: 212222230061</h3>
+<h3>EX. NO : 02</h3>
 <h3>DATE :</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
     
